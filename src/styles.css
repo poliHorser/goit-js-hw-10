@@ -36,7 +36,6 @@ img {
     display: flex;
     max-width: 200px;
     margin-left: 0;
-    margin-top: 20px;
 }
 .breed-select:hover, .breed-select:focus{
     border-color:rgba(34, 200, 255, 0.2);
@@ -48,7 +47,7 @@ img {
     font-style: normal;
     display: flex;
     gap: 50px;
-    padding: 50px 50px;
+    padding-right: 50px;
    
 }
 
@@ -56,10 +55,8 @@ img {
     font-style: italic;
     display: flex;
     color: rgb(7, 132, 241);
-    justify-content: center;
+    justify-content: left;
     font-size: 40px;
-    font-weight: 900;
-   
 }
 
 .cat-text {
